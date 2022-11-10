@@ -1,6 +1,7 @@
 # SmartContracts
 ## Description
 
+The purpose of this project is to create a Solidity program which will automate financial processes and features.
 
 ---
 
